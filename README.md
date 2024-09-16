@@ -1,0 +1,2 @@
+# MedicalFollowUpBackend
+Azure Functions
